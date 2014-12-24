@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lol</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="buttonText">Log In</string>
+    <string name="checkbox_str">Check Me !</string>
+    <string name="radio1">Male</string>
+    <string name="radio2">Female</string>
+    <string name="hint">John Smith</string>
+    <string name="lolstr">lol</string>
+    <string name="prn_hint">Enter your PRN</string>
+    <string name="pwd">12345</string>
+    <string name="pwdhint">Enter your Password</string>
+    <string name="imageDes">SICSR LOGO</string>
+    <string name="sicsr">SICSR</string>
+    <string name="proceed_button">Proceed</string>
+    <string name="help_button">Help</string>
+
+    <color name="bg">#000000</color>
+    <color name="text">#FFFFFF</color>
+    <color name="lg">#a9a9a9</color>
+    <color name="dg">#696969</color>
+
+    <string name="title_activity_new_main">NewMainActivity</string>
+    <string name="title_activity_text_formatter">Text_formatter</string>
+
+</resources>
